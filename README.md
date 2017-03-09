@@ -9,7 +9,8 @@ Some tools for project management / reporting / ...
 
 ## Example
 The following slide...
-![](sample_slide.JPG?raw=true) 
+![](sample_slide.JPG?raw=true)
+
 gives the following result:
 ```powershell
 PS C:\Users\Arnaud\Documents\chefferie-de-projet> Get-PowerpointContent -SlideTemplate C:\Users\Arnaud\Documents\example
