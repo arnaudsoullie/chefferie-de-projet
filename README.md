@@ -9,9 +9,9 @@ Some tools for project management / reporting / ...
 
 ## Example
 The following slide...
-[slide template]: https://github.com/arnaudsoullie/chefferie-de-projet/sample_slide.jpg
+[slide template]: https://github.com/arnaudsoullie/chefferie-de-projet/sample_slide.JPG
 gives the following result:
-``powershell
+```powershell
 PS C:\Users\Arnaud\Documents\chefferie-de-projet> Get-PowerpointContent -SlideTemplate C:\Users\Arnaud\Documents\example
 .pptx
 Slide title:  Title
