@@ -9,7 +9,7 @@ Some tools for project management / reporting / ...
 
 ## Example
 The following slide...
-!=[]: (https://github.com/arnaudsoullie/chefferie-de-projet/blob/master/sample_slide.JPG) 
+![]: (https://github.com/arnaudsoullie/chefferie-de-projet/blob/master/sample_slide.JPG) 
 gives the following result:
 ```powershell
 PS C:\Users\Arnaud\Documents\chefferie-de-projet> Get-PowerpointContent -SlideTemplate C:\Users\Arnaud\Documents\example
